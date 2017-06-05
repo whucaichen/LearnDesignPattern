@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DP_Adapter/DP_Adapter.iml" filepath="$PROJECT_DIR$/DP_Adapter/DP_Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP_Bridge/DP_Bridge.iml" filepath="$PROJECT_DIR$/DP_Bridge/DP_Bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP_Command/DP_Command.iml" filepath="$PROJECT_DIR$/DP_Command/DP_Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP_Composite/DP_Composite.iml" filepath="$PROJECT_DIR$/DP_Composite/DP_Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP_Flyweight/DP_Flyweight.iml" filepath="$PROJECT_DIR$/DP_Flyweight/DP_Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP_Proxy/DP_Proxy.iml" filepath="$PROJECT_DIR$/DP_Proxy/DP_Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP_Singleton/DP_Singleton.iml" filepath="$PROJECT_DIR$/DP_Singleton/DP_Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP_State/DP_State.iml" filepath="$PROJECT_DIR$/DP_State/DP_State.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP_Strategy/DP_Strategy.iml" filepath="$PROJECT_DIR$/DP_Strategy/DP_Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP_TemplateMethod/DP_TemplateMethod.iml" filepath="$PROJECT_DIR$/DP_TemplateMethod/DP_TemplateMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnDesignPattern.iml" filepath="$PROJECT_DIR$/LearnDesignPattern.iml" />
+    </modules>
+  </component>
+</project>
